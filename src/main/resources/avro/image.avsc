@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "name": "CameraImage",
+  "namespace": "avro",
+  "version": "1",
+  "fields": [
+    {
+      "name": "data",
+      "type": "bytes"
+    }
+  ]
+}
